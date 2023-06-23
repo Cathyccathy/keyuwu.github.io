@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Keyu Cai (Chinese: 吴珂雨). I am now a 2nd-year postgraduate student of Fudan University (Shanghai, China), advised by Prof. Feng Cai. My main research interests is in d-link net. 
+My name is Keyu Cai (Chinese: 吴珂雨). I am now a 2nd-year postgraduate student of Fudan University (Shanghai, China), advised by Prof. Haipeng Wang. My main research interests . 
 
 
 # 🔥 News
@@ -27,7 +27,7 @@ My name is Keyu Cai (Chinese: 吴珂雨). I am now a 2nd-year postgraduate stude
 
 # 📝 Publications 
 
-- [A Three-Stage Framework with Reliable Sample Pool for Long-Tailed Classification.](https://scholar.google.com/citations?user=Z0crt0oAAAAJ) Feng Cai*, Ke-Yu Wu*, Hai-Peng Wang, and Feng Wang, **CVPR workshop 2023**
+- [A Three-Stage Framework with Reliable Sample Pool for Long-Tailed Classification.](https://scholar.google.com/citations?user=Z0crt0oAAAAJ) Feng Cai\*, Ke-Yu Wu\*, Hai-Peng Wang, and Feng Wang, **CVPR workshop 2023**
 - [Rethinking Fine-grained Airport Extraction in Large-scale Complex Scenes via A Hybrid CNN-Transformer Framework.](https://scholar.google.com/citations?user=Z0crt0oAAAAJ) Ke-Yu Wu, Feng Cai, and Hai-Peng Wang, **TGRS 2023 (under review)**
 - [Dual Attention D-LinkNet for Road Segmentation in Remote Sensing Images.](https://scholar.google.com/citations?user=Z0crt0oAAAAJ) Ke-Yu Wu and Feng Cai, **ICAIT 2022**
 - [Remote Sensing Image Super-Resolution Via Attentional Feature Aggregation Generative Adversarial Network.](https://scholar.google.com/citations?user=Z0crt0oAAAAJ) Feng Cai, Ke-Yu Wu, and Feng Wang, **IGARSS 2022**
