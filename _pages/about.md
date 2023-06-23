@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Keyu Cai (Chinese: 吴珂雨). I am now a 2nd-year postgraduate student of Fudan University (Shanghai, China), advised by Prof. Haipeng Wang. My main research interests is in computer vision, multi-modal model, and AI generated content. I have a deep passion for research, and a strong desire to learn from and collaborate with exceptional scholars. And I aspire to delve deeper into the frontier technologies of the field and effectively tackle practical challenges. 
+My name is Keyu Wu (Chinese: 吴珂雨). I am now a 2nd-year postgraduate student of Fudan University (Shanghai, China), advised by Prof. Haipeng Wang. My main research interests is in computer vision, multi-modal model, and AI generated content. I have a deep passion for research, and a strong desire to learn from and collaborate with exceptional scholars. And I aspire to delve deeper into the frontier technologies of the field and effectively tackle practical challenges. 
 
 
 # 🔥 News
