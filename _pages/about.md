@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 My name is Keyu Wu (Chinese: 吴珂雨). I am now a 2nd-year postgraduate student of Fudan University (Shanghai, China), advised by Prof. Haipeng Wang. My main research interests is in computer vision, multi-modal model, and AI generated content. I have a deep passion for research, and a strong desire to learn from and collaborate with exceptional scholars. And I aspire to delve deeper into the frontier technologies of the field and effectively tackle practical challenges. 
