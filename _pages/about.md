@@ -21,8 +21,8 @@ My name is Keyu Wu (Chinese: 吴珂雨). I am now a 2nd-year postgraduate studen
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 PBVS @ CVPR 2023 Multi-modal Aerial View Object Classification Challenge - Track 1 (Ranked 1st of 123)
-- *2023.03*: &nbsp;🎉🎉 PBVS @ CVPR 2023 Multi-modal Aerial View Object Classification Challenge - Track 2 (Ranked 4th of 108)
+- *2023.03*: &nbsp;🎉🎉 PBVS @ CVPR 2023 Multi-modal Aerial View Object Classification Challenge - Track 1 (Ranked 1st of 129)
+- *2023.03*: &nbsp;🎉🎉 PBVS @ CVPR 2023 Multi-modal Aerial View Object Classification Challenge - Track 2 (Ranked 4th of 110)
 - *2022.08*: &nbsp;🎉🎉 [MEDIA REPORT](https://mp.weixin.qq.com/s/Hc_G3Nfvb_J290zd81l5Hg)2022 Huawei Developer Competition——Autonomous Driving Challenge (Ranked 2nd of 318)
 
 # 📝 Publications 
@@ -37,6 +37,7 @@ My name is Keyu Wu (Chinese: 吴珂雨). I am now a 2nd-year postgraduate studen
 - *2022.12* National Scholarship (Top 1%)
 - *2022.12* Outstanding Student (Top 5%)
 - *2020.10* The Second Prize Scholarship (Top 3%)
+- *2020.05* The Second Prize Scholarship (Top 3%)
 - *2019.10* The Second Prize Scholarship (Top 3%)
 
 # 📖 Educations
