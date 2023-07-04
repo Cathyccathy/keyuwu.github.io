@@ -38,4 +38,4 @@ My name is Keyu Wu (Chinese: 吴珂雨). I am now a 2nd-year postgraduate studen
 - *2017.09 - 2021.06*, Undergraduate, Fuzhou University, Fuzhou. 
 
 # 💻 Internships
-- *2024.05 - now*, research intern in Shanghai Artificial Intelligence Laboratory.
+- *2023.05 - now*, research intern in Shanghai Artificial Intelligence Laboratory.
